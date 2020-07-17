@@ -1,0 +1,43 @@
+Assignment 1:
+Take input as feet
+show output as miles
+
+function Name : feetToMile
+
+Assignment 2:
+
+3 Input Parameters : 
+1 chair needs 1 cft wood
+1 table needs 3 cft wood
+1 bed needs 5 cft wood
+
+output : Total number of cft wood
+
+
+function name : woodCalculator
+
+Assignment 3:
+
+User input : number of floors
+
+1 feet height needs 1000 brick
+
+for floor 1-10 : per floor 15 feet
+for floor 11-20 : per floor 12 feet
+for floor 21+ : per floor 10 feet
+
+output : Number of bricks
+
+
+function name : brickCalculator
+
+
+Assignment 4 :
+
+Array will have a set of friends name, will select the smallest name of friend
+
+function name : tinyFriend
+
+
+
+assignment.js file for submission
